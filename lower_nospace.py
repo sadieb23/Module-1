@@ -20,4 +20,4 @@ result_string = lowercase_letters + uppercase_letters
 #Print the string
 print(result_string)
 
-#used chatgpt for help
+#used chatgpt to help
