@@ -7,4 +7,4 @@ reversed_string = user_input[::-1]
 #Prints the reversed string
 print(reversed_string)
 
-#used chatgpt for help
+#used chatgpt to help
